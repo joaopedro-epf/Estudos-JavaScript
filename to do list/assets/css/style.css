@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color:#F0F2F5 ;
+    font-family: 'indie flower';
+}
+
+p{
+    font-size: 22px;
+    margin-top: -25px;
+}
+
+input{
+    border-radius: 100px;
+    border: solid 5px rgb(255, 255, 255);
+    background-color: white;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.219);
+    outline: 0;
+}
+
+#container{
+    background-color: white;
+    height: 430px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.295);
+    text-align: left;
+    padding: 5px
+}
+
+#taskList{
+    font-size: 20px;
+}
+
+#checkbox{
+    height: 15px;
+    width: 15px;
+}
